@@ -1,4 +1,4 @@
-MyDomain-Sample
+MyDomain-Test2
 ====================
 
 A simple example to brand your Salesforce My Domain
